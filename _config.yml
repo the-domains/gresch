@@ -1,14 +1,26 @@
-layout_spectrum: 0.3327787
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9787019
 color:
-  saturation: 0.7525278
-  lightness: 0.7103878
+  saturation: 0.122986
   brandStrength: 0.5773362
+  lightness: 0.9081632
   brandColors:
     - '#392E20'
     - '#897E65'
     - '#BCAC89'
     - '#BD8839'
     - '#7F4B1F'
-  rhythmicContrast: 0.9452097
+  rhythmicContrast: 0.5504833
+layout_spectrum: 0.3327787
 name: gresch
