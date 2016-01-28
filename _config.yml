@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9787019
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.122986
+  saturation: 0.4226638
   brandStrength: 0.5773362
-  lightness: 0.9081632
+  lightness: 0.2851772
   brandColors:
     - '#392E20'
     - '#897E65'
     - '#BCAC89'
     - '#BD8839'
     - '#7F4B1F'
-  rhythmicContrast: 0.5504833
+  rhythmicContrast: 0.4129968
+typography_spectrum: 0.1895811
 layout_spectrum: 0.3327787
 name: gresch
