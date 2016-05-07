@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1895811
 color:
   saturation: 0.4226638
   brandStrength: 0.5773362
@@ -22,5 +21,6 @@ color:
     - '#CADEE5'
     - '#5F605B'
   rhythmicContrast: 0.4129968
-layout_spectrum: 0.3327787
+typography_spectrum: 0.1895811
+layout_spectrum: 0.915682
 name: gresch
